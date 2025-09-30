@@ -1,0 +1,267 @@
+"Spatial": {
+"LibraryS1": {
+  "a1": {
+    "el": "στο λευκό αχυρώνα με τα γεμάτα στάχυα",
+    "en": "in the white barn with the full sheaves"
+  },
+  "a2": {
+    "el": "στη λευκή επάλξη με ασπίδες",
+    "en": "on the white battlement with shields"
+  },
+  "a3": {
+    "el": "στον κοραλλιογενή ύφαλο",
+    "en": "on the coral reef"
+  },
+  "a4": {
+    "el": "στο βαθύ κρατήρα",
+    "en": "in the deep crater"
+  },
+  "a5": {
+    "el": "στο ενεργό ηφαίστειο με λάβα",
+    "en": "in the active volcano with lava"
+  },
+  "a6": {
+    "el": "στον ύφαλο με το πλαγκτόν",
+    "en": "on the reef with plankton"
+  },
+  "a7": {
+    "el": "στη μαύρη σκοπιά με τις λόγχες",
+    "en": "at the black watchtower with spears"
+  },
+  "a8": {
+    "el": "στις σκοτεινές αποθήκες προμηθειών",
+    "en": "in the dark supply storerooms"
+  },
+
+  "b1": {
+    "el": "στους σταύλους με τα λαμπερά λευκά άλογα",
+    "en": "in the stables with the shining white horses"
+  },
+  "b2": {
+    "el": "στον πύργο με την καμπάνα συναγερμού",
+    "en": "in the tower with the alarm bell"
+  },
+  "b3": {
+    "el": "στη φωλιά με τα νερόφιδα",
+    "en": "in the nest with water snakes"
+  },
+  "b4": {
+    "el": "στο στοιχειωμένο, ερειπωμένο νεκροταφείο",
+    "en": "in the haunted, ruined graveyard"
+  },
+  "b5": {
+    "el": "στη σπασμένη ταφόπλακα",
+    "en": "at the broken tombstone"
+  },
+  "b6": {
+    "el": "στη φωλιά με τις άγριες πιράνχας",
+    "en": "in the nest with wild piranhas"
+  },
+  "b7": {
+    "el": "στον πύργο από βασάλτη με τα κοράκια",
+    "en": "in the basalt tower with ravens"
+  },
+  "b8": {
+    "el": "στους σταύλους με τα άγρια μαύρα άλογα",
+    "en": "in the stables with the wild black horses"
+  },
+
+  "c1": {
+    "el": "στη μεγάλη αίθουσα τραπεζαρίας με τα ασημένια σκεύη",
+    "en": "in the great dining hall with the silverware"
+  },
+  "c2": {
+    "el": "στον καταπέλτη από λευκό μάρμαρο",
+    "en": "at the catapult of white marble"
+  },
+  "c3": {
+    "el": "στην ασημένια ιτιά",
+    "en": "at the silver willow"
+  },
+  "c4": {
+    "el": "στο βάλτο με τα καλάμια",
+    "en": "in the swamp with the reeds"
+  },
+  "c5": {
+    "el": "στους πυκνούς θάμνους",
+    "en": "in the dense bushes"
+  },
+  "c6": {
+    "el": "στη μαύρη βελανιδιά",
+    "en": "at the black oak"
+  },
+  "c7": {
+    "el": "στην πολιορκητική μηχανή με τις φλεγόμενες πέτρες",
+    "en": "at the siege engine with the flaming stones"
+  },
+  "c8": {
+    "el": "στη μεγάλη αίθουσα χορού με τους μαύρους πολυελαίους",
+    "en": "in the great ballroom with the black chandeliers"
+  },
+
+  "d1": {
+    "el": "στο δωμάτιο της λευκής βασίλισσας με τις δαντέλες",
+    "en": "in the white queen's room with the lace"
+  },
+  "d2": {
+    "el": "στη στοά με τα λευκά λάβαρα",
+    "en": "in the arcade with the white banners"
+  },
+  "d3": {
+    "el": "στους λευκούς καρχαρίες",
+    "en": "with the white sharks"
+  },
+  "d4": {
+    "el": "στο σκοτεινό σπήλαιο",
+    "en": "in the dark cave"
+  },
+  "d5": {
+    "el": "στο άβυσσο βάραθρο χωρίς πάτο",
+    "en": "in the bottomless abyss chasm"
+  },
+  "d6": {
+    "el": "στους μαύρους αλιγάτορες",
+    "en": "with the black alligators"
+  },
+  "d7": {
+    "el": "στη στοά με τους σκελετούς και τις αλυσίδες",
+    "en": "in the arcade with the skeletons and the chains"
+  },
+  "d8": {
+    "el": "στα δωμάτια της μαύρης βασίλισσας με τα μαύρα βελούδα",
+    "en": "in the black queen's rooms with the black velvets"
+  },
+
+  "e1": {
+    "el": "στο θρόνο του λευκού βασιλιά από ελεφαντόδοντο",
+    "en": "on the throne of the white king made of ivory"
+  },
+  "e2": {
+    "el": "στη μεγάλη πύλη με τα χρυσά στολίδια",
+    "en": "at the great gate with the golden ornaments"
+  },
+  "e3": {
+    "el": "στην πέτρινη γέφυρα",
+    "en": "on the stone bridge"
+  },
+  "e4": {
+    "el": "στη σπηλιά με λαμπερούς κρυστάλλους",
+    "en": "in the cave with shining crystals"
+  },
+  "e5": {
+    "el": "στο πεδίο με το άγριο, πυκνό γρασίδι",
+    "en": "in the field with the wild, dense grass"
+  },
+  "e6": {
+    "el": "στο σιδερένιο πέρασμα",
+    "en": "on the iron passage"
+  },
+  "e7": {
+    "el": "στην κεντρική πύλη με τα σιδερένια καρφιά",
+    "en": "at the central gate with the iron spikes"
+  },
+  "e8": {
+    "el": "στο θρόνο του μαύρου βασιλιά από ηφαιστειακό γυαλί",
+    "en": "on the throne of the black king made of volcanic glass"
+  },
+
+  "f1": {
+    "el": "στην αίθουσα των στρατηγών με χάρτες και λάβαρα",
+    "en": "in the hall of the generals with maps and banners"
+  },
+  "f2": {
+    "el": "στο άγαλμα λευκού αγγέλου φρουρού",
+    "en": "at the statue of the white angel guardian"
+  },
+  "f3": {
+    "el": "στο μεγάλο λευκό βράχο",
+    "en": "on the great white rock"
+  },
+  "f4": {
+    "el": "στη χαράδρα με το άγριο ποτάμι",
+    "en": "in the gorge with the wild river"
+  },
+  "f5": {
+    "el": "στο απότομο ύψωμα",
+    "en": "on the steep hill"
+  },
+  "f6": {
+    "el": "στον κρανίου τόπο",
+    "en": "in the Place of Skulls"
+  },
+  "f7": {
+    "el": "στο άγαλμα μαύρου δαίμονα φρουρού",
+    "en": "At the statue of the black demon guardian"
+  },
+  "f8": {
+    "el": "στην αίθουσα των σκοτεινών συμβουλίων",
+    "en": "in the hall of the dark councils"
+  },
+
+  "g1": {
+    "el": "στις κουζίνες με τα χάλκινα καζάνια",
+    "en": "in the kitchens with the bronze cauldrons"
+  },
+  "g2": {
+    "el": "στο παρατηρητήριο με το τηλεσκόπιο",
+    "en": "at the observatory with the telescope"
+  },
+  "g3": {
+    "el": "στο σεντούκι στο βυθό του ποταμού",
+    "en": "at the chest at the bottom of the river"
+  },
+  "g4": {
+    "el": "στο στενό, κρυφό μονοπάτι",
+    "en": "on the narrow, hidden path"
+  },
+  "g5": {
+    "el": "στο στοιχειωμένο ξέφωτο",
+    "en": "in the haunted clearing"
+  },
+  "g6": {
+    "el": "στην άγκυρα στο βυθό",
+    "en": "At the anchor at the bottom"
+  },
+  "g7": {
+    "el": "στο παρατηρητήριο με τον κόκκινο δαυλό",
+    "en": "at the observatory with the red torch"
+  },
+  "g8": {
+    "el": "στα μπουντρούμια του μαύρου παλατιού",
+    "en": "in the dungeons of the black palace"
+  },
+
+  "h1": {
+    "el": "στο λευκό ναό με τα αγάλματα των αγγέλων",
+    "en": "in the white temple with the statues of angels"
+  },
+  "h2": {
+    "el": "στην υπόγεια στοά με το φως από κρυστάλλους",
+    "en": "in the underground arcade with the light from crystals"
+  },
+  "h3": {
+    "el": "στον παλιό φάρο",
+    "en": "at the old lighthouse"
+  },
+  "h4": {
+    "el": "στον απότομο, τρομακτικό γκρεμό",
+    "en": "on the steep, terrifying cliff"
+  },
+  "h5": {
+    "el": "στο μαύρο ρέμα",
+    "en": "in the black stream"
+  },
+  "h6": {
+    "el": "στο στοιχειωμένο ναυάγιο",
+    "en": "in the haunted shipwreck"
+  },
+  "h7": {
+    "el": "στις υπόγειες φυλακές με τα βασανιστήρια",
+    "en": "in the underground prisons with the tortures"
+  },
+  "h8": {
+    "el": "στο βωμό με τις φλόγες και τα κρανία",
+    "en": "at the altar with the flames and the skulls"
+  }
+}
+}
